@@ -1,6 +1,6 @@
 # Password Strength Checker
 
-A Python tool that evaluates password security.
+A python tool that analyzes password strength using regex rules, entropy calculation and crack time estimation.
 
 ## Project Structure
 
