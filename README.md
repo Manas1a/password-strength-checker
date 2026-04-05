@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Password Strength Checker
 
 A Python tool that evaluates password security.
@@ -75,7 +74,4 @@ Estimated crack time: 18.3 years
 git clone <repo>
 cd password-strength-checker
 python main.py
-=======
-# password-strength-checker
-A python tool that analyzes password strength using regex rules, entropy calculation and crack time estimation.
->>>>>>> 2d1e76a305be2c4a451f70430db287c127f99fd5
+
